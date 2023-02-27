@@ -1,2 +1,4 @@
-# dubem-nkemka
-Config files for my GitHub profile
+<h1 align="center">Hi  , I'm Chidubem!</h1>
+<h3 align="center">A passionate full-stack developer kicking it in Nigeria</h3>
+
+
