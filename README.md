@@ -1,9 +1,6 @@
-<div id="header" align="center">
-  <img src ="https://media.giphy.com/media/1n67EigjECnOUc6rhS/giphy.gif" height="150" width="300"/>
-</div>
 
 <div align ="center">
-<img src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="800" height="500" />
+<img src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="500" />
   </div>
   
   <h1 align="center">Hi  , I'm Chidubem!</h1>
