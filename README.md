@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="300"/>
   
 <div align ="center">
-<img src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="500" />
+<img src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="300" />
   </div>
   
   <h1 align="center">Hi  , I'm Chidubem!</h1>
@@ -24,7 +24,7 @@
   
  ------------------------------
 
-     <h3 align="left">Languages and Tools: </h3>
+     <h3 align="left">Languages and Tools:</h3>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
