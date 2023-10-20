@@ -9,11 +9,11 @@
 <h3 align="center">Welcome to my world</h3>
 
 
-- 🌍  Proudly **Nigerian**🇳🇬
+- 🌍  Proudly **Nigerian** 🇳🇬
 
-- 🌱 I’m currently learning **C, Python, JavaScript**
+- 🌱 I can work with **C, Python, JavaScript, SQL**
 
-- 💬 Ask me about **C, Python, JavaScript**
+- 💬 Ask me about **C, Python, JavaScript, SQL**
 
 - 📫 How to reach me **dubemnkemka@gmail.com**
 
