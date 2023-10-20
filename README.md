@@ -11,7 +11,7 @@
 
 - 🌍  Proudly **Nigerian** 🇳🇬
 
-- 🌱 I can work with **C, Python, JavaScript, SQL**
+- 🌱 I work with **C, Python, JavaScript, SQL**
 
 - 💬 Ask me about **C, Python, JavaScript, SQL**
 
