@@ -11,9 +11,9 @@
 
 - 🌍  Proudly **Nigerian** 🇳🇬
 
-- 🌱 I work with **C, Python, JavaScript, SQL**
+- 🌱 I work with **C, Python, Bash, SQL**
 
-- 💬 Ask me about **C, Python, JavaScript, SQL**
+- 💬 Ask me about **C, Python, Bash, SQL**
 
 - 📫 How to reach me **dubemnkemka@gmail.com**
 
