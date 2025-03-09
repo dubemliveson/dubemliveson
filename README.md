@@ -5,17 +5,18 @@
 <img src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="300" />
   </div>
   
-  <h1 align="center">Hello, my name is Chidubem! It's a pleasure to have you here</h1>
+  <h1 align="center">Hello, my name is Chidubem!</h1>
+  <h2 align="center">It is a pleasure to have you here</h2>
 <h3 align="center">Welcome to my World</h3>
 
 
-- 🌍  Proudly **Nigerian** 🇳🇬
+- 🌍  I'm Proudly **Nigerian** 🇳🇬
 
 - 🌱 I work with **C#, Python, JavaScript, SQL amongst others**
 
-- 💬 Ask me questions about **C#, Scripting Languages and Cloud Technologies - Azure, AWS and GCP**. I'd do my best to enlighten you on these technologies.
+- 💬 You can ask me questions on **C#, Scripting Languages and Cloud Technologies - Azure, AWS and GCP**. I'd love to speak on these languages and learn from others.
 
-- 📫 How to reach me **dubemnkemka@gmail.com**
+- 📫 You can reach me via **dubemnkemka@gmail.com**
 
 -----------------------------
   <h3 align="left">Connect with me:</h3>
