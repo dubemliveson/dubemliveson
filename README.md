@@ -5,8 +5,7 @@
 <img src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="300" />
   </div>
   
-  <h1 align="center">Hello, my name is Chidubem!</h1>
-  <h2 align="center">It is a pleasure to have you here</h2>
+  <h1 align="center">Hello, my name is Chidubem!</h1> <h2 align="center">It is a pleasure to have you here</h2>
 <h3 align="center">Welcome to my World</h3>
 
 
