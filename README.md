@@ -5,8 +5,8 @@
 <img src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="300" />
   </div>
   
-  <h1 align="center">Hi  , I'm Chidubem!</h1>
-<h3 align="center">Welcome to my world</h3>
+  <h1 align="center">Hello, my name is Chidubem! It's a pleasure to have you here</h1>
+<h3 align="center">Welcome to my World</h3>
 
 
 - 🌍  Proudly **Nigerian** 🇳🇬
