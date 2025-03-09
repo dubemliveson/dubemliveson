@@ -11,16 +11,16 @@
 
 - 🌍  Proudly **Nigerian** 🇳🇬
 
-- 🌱 I work with **C, Python, Bash, SQL**
+- 🌱 I work with **C#, Python, JavaScript and SQL**
 
-- 💬 Ask me about **C, Python, Bash, SQL**
+- 💬 Ask me about **C#, Scripting Languages and Cloud Technologies - Azure, AWS and GCP**
 
 - 📫 How to reach me **dubemnkemka@gmail.com**
 
 -----------------------------
   <h3 align="left">Connect with me:</h3>
   
-  <a href="https://www.linkedin.com/in/chidubem-nkemka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julius (sucessful) daniel" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/chidubem-nkemka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
   
  ------------------------------
 
