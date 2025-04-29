@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="300"/>
   
 <div align ="center">
-<img src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="300" />
+<!-- <img src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="300" /> -->
   </div>
   
   <h1 align="center">Hello, my name is Chidubem!</h1> 
