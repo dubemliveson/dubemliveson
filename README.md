@@ -12,9 +12,9 @@
 
 - 🌍  I'm Proudly **Nigerian** 🇳🇬
 
-- 🌱 I work with **C#, Python, JavaScript, SQL** amongst others
+- 🌱 I work with **C#, Python, JavaScript** 
 
-- 💬 You can ask me questions on **C#, Scripting Languages and Cloud Technologies - Azure, AWS and GCP**. I'd love to speak on these languages and learn from you.
+- 💬 You can ask me questions on **C#, Scripting Languages and Cloud Technologies - Azure, AWS and GCP**. I'd love to speak on these languages and learn more.
 
 - 📫 You can reach me via **dubemnkemka@gmail.com**
 
