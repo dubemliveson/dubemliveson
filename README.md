@@ -12,7 +12,7 @@
 
 - 🌍  I'm Proudly **Nigerian** 🇳🇬
 
-- 🌱 I work with **C#, Python, JavaScript** 
+- 🌱 I work with **C, C#, Python, JavaScript** 
 
 - 💬 You can ask me questions on **C#, Scripting Languages and Cloud Technologies - Azure, AWS and GCP**. I'd love to speak on these languages and learn more.
 
