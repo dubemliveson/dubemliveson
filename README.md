@@ -1,41 +1,44 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="300"/>
-  
-<div align ="center">
-<!-- <img src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="300" /> -->
-  </div>
-  
-  <h1 align="center">Hello, my name is Chidubem!</h1> 
-  <h3 align="center">It is a pleasure to have you here 🤝 </h3>
-<h3 align="center">Welcome to my World</h3>
 
+# Hi there, I’m Chidubem Nkemka 👋
 
-- 🌍  I'm Proudly **Nigerian** 🇳🇬
+![GitHub followers](https://img.shields.io/github/followers/janedoe?label=Follow&style=social)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janedoe&layout=compact)
 
-- 🌱 I work with **C, C#, Python, JavaScript** 
+## 🔭 About Me
+I’m a Cloud Native Engineer specializing in serverless architectures, infrastructure as code, and scalable microservices. I love automating everything—from CI/CD pipelines to cost-optimization scripts.
 
-- 💬 You can ask me questions on **C#, Scripting Languages and Cloud Technologies - Azure, AWS and GCP**. I'd love to speak on these languages and learn more.
+- 💼 Currently at **AcmeCloud** building event-driven data platforms  
+- 🌱 Learning Kubernetes operators and service meshes  
+- 📝 Writing tutorials on Terraform & AWS Lambda  
+- ⚡ Fun fact: I play chess and write sci-fi short stories  
 
-- 📫 You can reach me via **dubemnkemka@gmail.com**
+## 🛠️ Skills & Tools
+<table>
+  <tr>
+    <td><b>Cloud & Infra</b></td><td>AWS • GCP • Azure • Serverless Framework • Terraform</td>
+  </tr>
+  <tr>
+    <td><b>Containers</b></td><td>Docker • Kubernetes • Helm</td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td><td>Python • C • C# • JavaScript • Bash</td>
+  </tr>
+  <tr>
+    <td><b>CI/CD & Monitoring</b></td><td>GitHub Actions • Jenkins • Prometheus • Grafana</td>
+  </tr>
+</table>
 
------------------------------
-  <h3 align="left">Connect with me:</h3>
-  
-  <a href="https://www.linkedin.com/in/chidubemnkemka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-  
- ------------------------------
+## 🚀 Featured Projects
 
-  <h3 align="left">Languages and Tools:</h3>
-  
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" **alt="Csharp" width="40" height="40"/>&nbsp;
-</div>
+| Project | Description | Tech Stack |
+| ------- | ----------- | ---------- |
+| **/infrastructure-as-code** | Zero-trust VPC architecture on AWS with Terraform modules | Terraform • AWS |
+| **/event-processor** | Serverless event-driven pipeline for real-time analytics | AWS Lambda • Kinesis • Python |
+| **/microservice-template** | Boilerplate for Go microservices with CI/CD | Go • Docker • GitHub Actions |
+
+> 💡 *More on my repos:* [All projects →](https://github.com/AzureProjects)
+
+## 📫 Get in Touch
+- 🌐 Website: [Chidubem Nkemka](https://dubemliveson.github.io/ChidubemNkemka-PortfolioBeta/)  
+- ✉️ Email: [dubemnkemka@gmail.com](mailto:dubemnkemka@gmail.com)  
+- 🐦 LinkedIn: [Chidubem Nkemka](https://linkedin.com/in/chidubemnkemka)  
