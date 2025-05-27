@@ -7,10 +7,10 @@
 ## 🔭 About Me
 I’m a Cloud Native Engineer specializing in serverless architectures, infrastructure as code, and scalable microservices. I love automating everything—from CI/CD pipelines to cost-optimization scripts.
 
-- 💼 Currently at **AcmeCloud** building event-driven data platforms  
-- 🌱 Learning Kubernetes operators and service meshes  
-- 📝 Writing tutorials on Terraform & AWS Lambda  
-- ⚡ Fun fact: I play chess and write sci-fi short stories  
+- 💼 Currently seeking for opportunites in Cloud Engineering  
+- 🌱 Learning GitHub Actions, Kubernetes and Terraform  
+- 📝 Writing tutorials on Azure Functions 
+- ⚡ Fun fact: I play football and write thought provoking articles  
 
 ## 🛠️ Skills & Tools
 <table>
