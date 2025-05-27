@@ -1,7 +1,6 @@
 
 # Hi there, I’m Chidubem Nkemka 👋
 
-![GitHub followers](https://img.shields.io/github/followers/dubemliveson?label=Follow&style=social)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubemliveson&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubemliveson&layout=compact)
 
