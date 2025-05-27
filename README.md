@@ -38,7 +38,7 @@ I’m a Cloud Native Engineer specializing in serverless architectures, infrastr
 <!--| **/infrastructure-as-code** | Zero-trust VPC architecture on Azure with Terraform modules | Terraform • Azure |-->
 <!--| **/microservice-template** | Boilerplate for Go microservices with CI/CD | Go • Docker • GitHub Actions |-->
 
-> 💡 *More on my repos:* [All projects →](https://github.com/AzureProjects)
+> 💡 *More on my repos:* [All projects →](https://github.com/dubemliveson/AzureProjects)
 
 ## 📫 Get in Touch
 - 🌐 Website: [Chidubem Nkemka](https://dubemliveson.github.io/ChidubemNkemka-PortfolioBeta/)  
