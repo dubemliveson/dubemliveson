@@ -32,13 +32,13 @@ I’m a Cloud Native Engineer specializing in serverless architectures, infrastr
 
 | Project | Description | Tech Stack |
 | ------- | ----------- | ---------- |
-| **/infrastructure-as-code** | Zero-trust VPC architecture on AWS with Terraform modules | Terraform • AWS |
-| **/event-processor** | Serverless event-driven pipeline for real-time analytics | AWS Lambda • Kinesis • Python |
-| **/microservice-template** | Boilerplate for Go microservices with CI/CD | Go • Docker • GitHub Actions |
+| **/infrastructure-as-code** | Zero-trust VPC architecture on AWS with Terraform modules | Terraform • Azure |
+| **/event-processor** | Serverless event-driven blob storage content reader for cost effective and speedy processing  | Azure Functions • Application Insights • C# |
+<!--| **/microservice-template** | Boilerplate for Go microservices with CI/CD | Go • Docker • GitHub Actions |-->
 
 > 💡 *More on my repos:* [All projects →](https://github.com/AzureProjects)
 
 ## 📫 Get in Touch
 - 🌐 Website: [Chidubem Nkemka](https://dubemliveson.github.io/ChidubemNkemka-PortfolioBeta/)  
 - ✉️ Email: [dubemnkemka@gmail.com](mailto:dubemnkemka@gmail.com)  
-- 🐦 LinkedIn: [Chidubem Nkemka](https://linkedin.com/in/chidubemnkemka)  
+- 👨🏾‍💼 LinkedIn: [Chidubem Nkemka](https://linkedin.com/in/chidubemnkemka)  
