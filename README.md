@@ -23,7 +23,7 @@ I’m a Cloud Native Engineer specializing in serverless architectures, infrastr
     <td><b>Containers</b></td><td>Docker • Kubernetes • Helm</td>
   </tr>
   <tr>
-    <td><b>Languages</b></td><td>Python • C • C# • JavaScript • Bash</td>
+    <td><b>Languages</b></td><td>C • C# • Python • JavaScript • Bash</td>
   </tr>
   <tr>
     <td><b>CI/CD & Monitoring</b></td><td>GitHub Actions • Jenkins • Prometheus • Grafana</td>
