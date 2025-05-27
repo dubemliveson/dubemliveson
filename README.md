@@ -2,7 +2,9 @@
 # Hi there, I’m Chidubem Nkemka 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubemliveson&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubemliveson&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubemliveson&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dubemliveson&theme=default)
+
 
 ## 🔭 About Me
 I’m a Cloud Native Engineer specializing in serverless architectures, infrastructure as code, and scalable microservices. I love automating everything—from CI/CD pipelines to cost-optimization scripts.
