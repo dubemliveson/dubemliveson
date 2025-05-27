@@ -1,8 +1,9 @@
 
 # Hi there, I’m Chidubem Nkemka 👋
 
-![GitHub followers](https://img.shields.io/github/followers/janedoe?label=Follow&style=social)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janedoe&layout=compact)
+![GitHub followers](https://img.shields.io/github/followers/dubemliveson?label=Follow&style=social)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubemliveson&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubemliveson&layout=compact)
 
 ## 🔭 About Me
 I’m a Cloud Native Engineer specializing in serverless architectures, infrastructure as code, and scalable microservices. I love automating everything—from CI/CD pipelines to cost-optimization scripts.
@@ -15,7 +16,7 @@ I’m a Cloud Native Engineer specializing in serverless architectures, infrastr
 ## 🛠️ Skills & Tools
 <table>
   <tr>
-    <td><b>Cloud & Infra</b></td><td>AWS • GCP • Azure • Serverless Framework • Terraform</td>
+    <td><b>Cloud & Infra</b></td><td>Azure • AWS • GCP • Serverless Framework • Terraform</td>
   </tr>
   <tr>
     <td><b>Containers</b></td><td>Docker • Kubernetes • Helm</td>
