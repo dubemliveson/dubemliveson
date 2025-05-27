@@ -34,8 +34,8 @@ I’m a Cloud Native Engineer specializing in serverless architectures, infrastr
 
 | Project | Description | Tech Stack |
 | ------- | ----------- | ---------- |
-| **/infrastructure-as-code** | Zero-trust VPC architecture on Azure with Terraform modules | Terraform • Azure |
-| **/event-processor** | Serverless event-driven blob storage content reader for cost effective and speedy processing  | Azure Functions • Application Insights • C# |
+<!--| **/infrastructure-as-code** | Zero-trust VPC architecture on Azure with Terraform modules | Terraform • Azure |-->
+| **/event-processor** | Serverless event-driven blob storage content reader with HTTP/TImer trigger | Azure Functions • Application Insights • C# |
 <!--| **/microservice-template** | Boilerplate for Go microservices with CI/CD | Go • Docker • GitHub Actions |-->
 
 > 💡 *More on my repos:* [All projects →](https://github.com/AzureProjects)
