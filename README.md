@@ -17,16 +17,16 @@ I’m a Cloud Native Engineer specializing in serverless architectures, infrastr
 ## 🛠️ Skills & Tools
 <table>
   <tr>
-    <td><b>Cloud & Infra</b></td><td>Azure • AWS • GCP • Serverless Framework • Terraform</td>
+    <td><b>Cloud & Infra</b></td><td>Azure • AWS • GCP • Serverless Framework <!--• Terraform--></td>
   </tr>
   <tr>
-    <td><b>Containers</b></td><td>Docker • Kubernetes • Helm</td>
+    <td><b>Containers</b></td><td>Docker<!--• Kubernetes • Helm--></td>
   </tr>
   <tr>
     <td><b>Languages</b></td><td>C • C# • Python • JavaScript • Bash</td>
   </tr>
   <tr>
-    <td><b>CI/CD & Monitoring</b></td><td>GitHub Actions • Jenkins • Prometheus • Grafana</td>
+    <td><b>CI/CD & Monitoring</b></td><td>GitHub Actions<!--• Jenkins • Prometheus • Grafana--></td>
   </tr>
 </table>
 
