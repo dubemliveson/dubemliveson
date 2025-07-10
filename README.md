@@ -17,7 +17,7 @@ I’m a Cloud Native Engineer specializing in serverless architectures, infrastr
 ## 🛠️ Skills & Tools
 <table>
   <tr>
-    <td><b>Cloud & Infra</b></td><td>Azure • AWS • GCP •  Oracle • Serverless Framework <!--• Terraform--></td>
+    <td><b>Cloud & Infra</b></td><td>Azure • AWS • GCP •  Oracle • Serverless Framework • Terraform</td>
   </tr>
   <tr>
     <td><b>Containers</b></td><td>Docker<!--• Kubernetes • Helm--></td>
