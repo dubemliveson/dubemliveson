@@ -12,7 +12,7 @@ I’m a Cloud Native Engineer specializing in serverless architectures, infrastr
 - 💼 Currently seeking for opportunites in Cloud Engineering  
 - 🌱 Learning GitHub Actions, Kubernetes and Terraform  
 - 📝 Writing tutorials on Azure Functions 
-- ⚡ Fun fact: I play football and read literature 
+- ⚡ Fun fact: I read literature 
 
 ## 🛠️ Skills & Tools
 <table>
